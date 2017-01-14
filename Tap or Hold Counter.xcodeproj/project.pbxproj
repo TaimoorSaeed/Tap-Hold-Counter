@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					8BDD89F61E14062800A4E650 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = GB5JX3BE5S;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GB5JX3BE5S;
 				INFOPLIST_FILE = "Tap or Hold Counter/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "swiftpakistan.Tap-or-Hold-Counter";
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GB5JX3BE5S;
 				INFOPLIST_FILE = "Tap or Hold Counter/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "swiftpakistan.Tap-or-Hold-Counter";
@@ -299,6 +302,7 @@
 				8BDD8A0B1E14062800A4E650 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
